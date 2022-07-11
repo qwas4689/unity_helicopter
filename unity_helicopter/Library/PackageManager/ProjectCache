@@ -5,22 +5,22 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637929348693809199
-    m_Hash: 3979996139
+      ticks: 637930943758407930
+    m_Hash: 3693497500
   m_LockFileStatus:
     m_FilePath: C:/unity/unity_helicopter/unity_helicopter/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637929348885856924
-    m_Hash: 3809199474
+      ticks: 637930945003487658
+    m_Hash: 1761253017
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/unity/unity_helicopter/unity_helicopter/Packages
-m_EditorVersion: 2021.3.6f1 (7da38d85baf6)
+m_EditorVersion: 2021.3.5f1 (40eb3a945986)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.15.18
   testable: 0
@@ -305,6 +305,7 @@ m_ResolvedPackages:
     - 3.0.14
     - 3.0.15
     compatible:
+    - 3.0.14
     - 3.0.15
     verified: 3.0.15
   dependencies:
@@ -332,7 +333,7 @@ m_ResolvedPackages:
     revision: b61ff0378932fdf03b5891e09c91728337de674c
     path: 
   unityLifecycle:
-    version: 3.0.15
+    version: 3.0.14
     nextVersion: 
 - packageId: com.unity.ide.visualstudio@2.0.16
   testable: 0
@@ -376,6 +377,7 @@ m_ResolvedPackages:
     - 2.0.15
     - 2.0.16
     compatible:
+    - 2.0.15
     - 2.0.16
     verified: 2.0.16
   dependencies:
@@ -409,7 +411,7 @@ m_ResolvedPackages:
     revision: c01855ef6461b821ab0226135e96a4ee86de96be
     path: 
   unityLifecycle:
-    version: 2.0.16
+    version: 2.0.15
     nextVersion: 
 - packageId: com.unity.ide.vscode@1.2.5
   testable: 0

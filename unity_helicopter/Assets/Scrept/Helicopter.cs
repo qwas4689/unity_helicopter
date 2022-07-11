@@ -37,7 +37,7 @@ public class Helicopter : MonoBehaviour
         if (_inputPro.Starts)
         {
             _ABCSpeed += 0.001f;
-            if (_ABCSpeed >= 5.0f)
+            if (_ABCSpeed >= 2.0f)
             {
                 Debug.Log("이륙준비 완료");
                 on = true;
@@ -64,7 +64,7 @@ public class Helicopter : MonoBehaviour
         {
             if (_input_hel.up)
             {
-                if (up_down_speed >= 1.3f)
+                if (up_down_speed >= 2.0f)
                 {
                     up_down_speed -= 0.1f;
                 }
